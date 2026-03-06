@@ -1,1 +1,7 @@
-# TEST 
+- AI cho Tic-Tac-Toe: Sử dụng minimax kết hợp tìm kiếm không gian trạng thái để xây dựng người chơi bất khả chiến bại.  ( an  )
+- Giải 8-Puzzle / 15-Puzzle: Sử dụng A* với các heuristic như số ô sai vị trí hoặc khoảng cách Manhattan.  ( an )
+- Bài toán Ba lô (Knapsack): Sử dụng tìm kiếm ngẫu nhiên để xấp xỉ lựa chọn vật phẩm tối ưu. ( hưng )
+- Giải mê cung: Triển khai BFS, DFS, và A* để tìm đường đi ngắn nhất trong các mê cung được tạo ngẫu nhiên.  ( hưng )
+- Hệ thống suy luận cây gia phả: Xây dựng hệ thống suy ra quan hệ huyết thống (ví dụ: “Nếu A là cha mẹ của B và B là cha mẹ của C, thì A là ông/bà của C”).
+- Hệ thống phân loại động vật: Mã hóa các quy tắc phân loại bằng FOL và suy luận thuộc tính (ví dụ: “Tất cả động vật có vú đều máu nóng”). 
+- Phát hiện thư rác: Triển khai bộ phân loại Naive Bayes để suy luận email có phải là spam hay không.
